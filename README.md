@@ -17,7 +17,7 @@
 
 ## 🔧 Current Project
 
-- Developing an **Inventory Management System** to streamline product tracking and stock control.
+- Devloping the DCC project 
 
 ---
 
