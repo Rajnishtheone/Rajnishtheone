@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rajnish Kumar</h1>
-<h3 align="center">Passionate Developer | Python, JavaScript, C++ | Open-source Enthusiast | Always Learning</h3>
+<h1 align="center">👋 Hi, I'm Rajnish Kumar</h1>
+<h3 align="center">Software Developer | Python, JavaScript, C++ | Open Source Contributor | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajnishtheone&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -7,18 +7,35 @@
 
 ---
 
-### 🔭 Current Work
-- **Inventory Management System**
+## 🚀 About Me
 
-### 🌱 Learning
-- **JavaScript** and **Data Structures & Algorithms (DSA)**
-
-### 📫 How to Reach Me
-- 📧 Email: [rajnishkk97@gmail.com](mailto:rajnishkk97@gmail.com)
+- 🎓 Computer Science enthusiast with hands-on experience in developing efficient and scalable software solutions.
+- 🧠 Passionate about clean code, problem-solving, and continuous learning.
+- 🌐 Active contributor to open-source projects and coding platforms.
 
 ---
 
-### 🌐 Connect with Me
+## 🔧 Current Project
+
+- Developing an **Inventory Management System** to streamline product tracking and stock control.
+
+---
+
+## 📚 Currently Learning
+
+- Advanced **JavaScript**
+- **Data Structures & Algorithms (DSA)** to enhance problem-solving skills.
+
+---
+
+## 📬 Get in Touch
+
+- 📧 Email: [rajnishkk97@gmail.com](mailto:rajnishkk97@gmail.com)
+- 💼 LinkedIn: [Rajnish Kumar](https://linkedin.com/in/rajnish-kumar-11808a254)
+
+---
+
+## 🌐 Online Presence
 
 <p align="left">
   <a href="https://linkedin.com/in/rajnish-kumar-11808a254" target="_blank">
@@ -37,7 +54,7 @@
 
 ---
 
-### ⚙️ Languages and Tools
+## 🛠️ Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
@@ -55,7 +72,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajnishtheone&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -63,7 +80,7 @@
 
 ---
 
-### 🔥 Streak Stats
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rajnishtheone&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
@@ -71,7 +88,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rajnishtheone&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
